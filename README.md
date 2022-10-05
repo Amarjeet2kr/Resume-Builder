@@ -1,4 +1,4 @@
-# A Resume Builder Web Application - .resume
+# A Resume Builder Web Application
 
 A resume builder dynamic website using javascript.
 
@@ -14,15 +14,6 @@ This is A Resume Builder or Creator Web Application for Students or Profesionals
 * give your feedback after evaluation.
 
 ## Authors
-
-Contributors names and contact info
-
-Mr. Shivam Singh Rajput  
-email: shivampublic2001@gmail.com
-
-## License/Rights
-
-This project is licensed under the Indian IT Act-2021, All Rights Reserved@Shivam.abc
 
 ## direct-link
 
