@@ -17,4 +17,4 @@ This is A Resume Builder or Creator Web Application for Students or Profesionals
 
 ## direct-link
 
-https://gitinit-shivamrathour.github.io/gitinit-resume.github.io/
+https://amarjeet2kr.github.io/Resume-Builder/
