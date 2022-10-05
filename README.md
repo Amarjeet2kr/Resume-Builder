@@ -13,8 +13,6 @@ This is A Resume Builder or Creator Web Application for Students or Profesionals
 ### Suggest
 * give your feedback after evaluation.
 
-## Authors
-
 ## direct-link
 
 https://amarjeet2kr.github.io/Resume-Builder/
